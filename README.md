@@ -3,6 +3,12 @@
 
 This project focuses on building a machine learning model to predict the presence of heart disease using clinical and demographic data. The goal is to assist in early detection by analyzing patient health attributes.
 
+RUN IN STREAMLIT:
+cd path of the repo in a folder
+
+Command:
+Streamlit run app.py
+
 📊 Dataset
 Dataset contains 2181 patient records
 Includes 14 features such as:
@@ -86,4 +92,4 @@ Use advanced models like XGBoost
 👩‍💻 Author
 
 Likitha Sri Maddipatla
-B.Tech CSE | Aspiring Data Scientist / ML Engineer
+B.Tech CSE | Aspiring Data Scientist and ML Engineer
